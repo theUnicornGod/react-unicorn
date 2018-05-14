@@ -1,0 +1,11 @@
+{
+  "name": "react-unicorn",
+  "version": "0.0.1",
+  "description": "React UI Lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "theUnicornGod",
+  "license": "MIT"
+}
